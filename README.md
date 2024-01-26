@@ -19,4 +19,4 @@
 
 
 ## Sources
-[1] [ K. Mayers, “Gardening statistics in 2024 (incl.. Covid & Millennials),” Garden Pals, (accessed Jan. 26, 2024).] (Sources/GardenPals.pdf)
+[1] [ K. Mayers, “Gardening statistics in 2024 (incl.. Covid & Millennials),” Garden Pals, (accessed Jan. 26, 2024).](Sources/GardenPals.pdf)
