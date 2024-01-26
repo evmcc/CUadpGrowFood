@@ -18,4 +18,4 @@
 
 
 ## Sources
-[1] [ K. Mayers, “Gardening statistics in 2024 (incl.. Covid & Millennials),” Garden Pals, https://gardenpals.com/gardening-statistics/#:~:text=4.,households%20engage%20in%20gardening%20activities.&text=The%20study%20also%20found%20that,%2C%20and%20fruits%20(31%25). (accessed Jan. 26, 2024).](Sources/GardenPals.pdf)
+[1] [ K. Mayers, “Gardening statistics in 2024 (incl.. Covid & Millennials),” Garden Pals, (accessed Jan. 26, 2024).] (Sources/GardenPals.pdf)
