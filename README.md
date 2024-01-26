@@ -9,6 +9,7 @@
 
 ## Need Identification
 ### Need Statement
+Urban and suburban home cooks need cheaper access to quality ingredients
 ### Target User Group
 ### User's Point of View
 
