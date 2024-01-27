@@ -9,8 +9,10 @@
 
 ## Need Identification
 ### Need Statement
-Urban and suburban home cooks need cheaper access to quality ingredients
+Urban and suburban home cooks need cheaper access to quality ingredients.
+
 ### Target User Group
+People living in cities of all sizes who currently cook, but currently do not garden at home.
 ### User's Point of View
 
 
